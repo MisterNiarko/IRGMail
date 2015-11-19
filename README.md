@@ -1,3 +1,2 @@
 # IRGMail
-IRGMail by SYED &amp; VANDERPERRE
-zaeazeaze
+IRGMail by SYED &amp; VANDERP
