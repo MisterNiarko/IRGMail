@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>IRGMail</title>
+	<meta charset="UTF-8">
+	
+	<link rel="stylesheet" type="text/css" href="lib/bootstrap/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="lib/bootstrap/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+	
+	
+	<link rel="stylesheet" type="text/css" href="style/style.css">
+	
+	<script src="lib/jquery/jquery-2.1.4.min.js"></script>
+	<script src="lib/bootstrap/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+	<img id="logo"  src="img/logo.jpg" alt="whatever">
+	<div id="buttons"  class="section col-sm-10"></div>
+	<div id="toolbar" class="section" ></div>
+
+	<div id="tabs"   class="section">
+		<ul id="tabsAnchor" class="nav nav-tabs"></ul>	
+		<div id="tabsContentAnchor" class="tab-content"></div>
+	</div>
+
+	<script src="js/irgmail.js"></script>
+	<script>
+		$(function(){
+			irgmail.init();
+			});
+	</script>
+</body>
+</html>

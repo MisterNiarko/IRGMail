@@ -1,0 +1,26 @@
+{
+	"configuration" : {
+		"plugins" :[
+			{
+				"label" : "Parameters",
+				"type" : "button",
+				"icon" : "glyphicon glyphicon-cog",
+				"handler" : "handlerParameters"
+			},
+			{
+				"label" : "New mail",
+				"type" : "button",
+				"icon" : "glyphicon glyphicon-envelope",
+				"handler" : "handlerNewMail"
+			},
+			{
+				"label" : "Inbox",
+				"type" : "tab"
+			},
+			{
+				"label" : "Outbox",
+				"type" : "tab"
+			}
+		]	
+	}
+}

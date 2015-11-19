@@ -1,0 +1,54 @@
+{
+	"mails" : [
+		{
+			"adress":"toto@gmail.com",
+			"object" : "OhnoQQ",
+			"tab" : "Inbox"
+		},
+		{
+			"adress":"tata@gmail.com",
+			"object" : "OhnoQQ2"	,
+			"tab" : "Inbox"
+		},
+		{
+			"adress":"titi@gmail.com",
+			"object" : "OhnoQQ3",
+			"tab" : "Inbox"	
+		},
+		{
+			"adress":"hamza@gmail.com",
+			"object" : "Bosse gros naze",
+			"tab" : "Inbox"
+		},
+		{
+			"adress":"hamza@gmail.com",
+			"object" : "Métufouquoi",
+			"tab" : "Inbox"
+		},
+		{
+			"adress":"hamza@gmail.com",
+			"object" : "ok je pars avec Pierre",
+			"tab" : "Inbox"	
+		},
+		{
+			"adress":"titi@gmail.com",
+			"object" : "OhnoQQ3"	,
+			"tab" : "Outbox"
+		},
+		{
+			"adress":"hamza@gmail.com",
+			"object" : "Ok",
+			"tab" : "Outbox"	
+		},
+		{
+			"adress":"hamza@gmail.com",
+			"object" : "je fais ce que je peux D:"	,
+			"tab" : "Outbox"
+		},
+		{
+			"adress":"hamza@gmail.com",
+			"object" : "Np trouduku",
+			"tab" : "Outbox"	
+		}
+	]
+}
