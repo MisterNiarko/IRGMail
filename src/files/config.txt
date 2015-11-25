@@ -1,0 +1,5 @@
+ADDRESS:irgmail@gmx.fr
+SERVER:imap.gmx.fr
+PROTOCOL:imaps
+LOGIN:irgmail@gmx.fr
+PASSWORD:irgmail/ir2
